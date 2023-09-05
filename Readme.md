@@ -10,7 +10,7 @@ Statistics is the art of learning from data. It is concerned with the collection
 - To be able to draw conclusions from the data, we must take into account the possibility of chance - introduction to probability.
 
 ## Population and Sample
-![Population and Sample](file://objects/population&sample.png)
+![Population and Sample](https://github.com/amit-timalsina/Statistics-101/blob/master/objects/population%26sample.png)
 - **Population:** The total collection of all the elements that we are interested in is called a population.
 - **Sample:** A representative subgroup of the population that will be studied in detail is called a sample.
 
